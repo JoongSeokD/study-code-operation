@@ -1,0 +1,4 @@
+# Project exclude paths
+/target/
+/study-bytecode.iml
+/.idea/
